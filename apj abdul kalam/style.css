@@ -1,0 +1,25 @@
+body{
+    margin: 60px;
+  }
+  .container-fluid{
+    background-color:#f4f8f6;
+  }
+  .header{
+    text-align: center;
+  }
+  #imagetext{
+    background-color: rgb(141, 218, 145) !important;
+  }
+  .main{
+    max-width: 660px; /* for  below IE7 use `width: 660px;` */
+      margin: 0 auto;
+  }
+  li span{
+    font-weight: bold;
+  }
+  .footer{
+    text-align:center;
+  }
+  #codedby{
+    text-align:center;
+  }
